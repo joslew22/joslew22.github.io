@@ -112,7 +112,7 @@
 <header class="hero wrap" id="top">
   <div class="eyebrow">UX &amp; Product Portfolio</div>
   <h1>I design for the people who actually show up.</h1>
-  <p class="lede">I'm Joseph "Pop" Lewis, a Computer Science student at Howard University (Class of 2027). I build products where engineering, data, and everyday human behavior meet, from AI agent platforms to a pickup-basketball app built for my own community.</p>
+  <p class="lede">I'm Joseph Lewis, a Computer Science student at Howard University (Class of 2027). I build products where engineering, data, and everyday human behavior meet, from AI agent platforms to a pickup-basketball app built for my own community.</p>
   <div class="chips">
     <span class="chip">CS @ Howard University '27</span>
     <span class="chip">FOSSI STEM Scholar</span>
