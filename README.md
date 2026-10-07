@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Joseph "Pop" Lewis — UX Portfolio</title>
+<title>Joseph Lewis — UX Portfolio</title>
 <meta name="description" content="UX portfolio of Joseph Lewis, Computer Science student at Howard University.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
